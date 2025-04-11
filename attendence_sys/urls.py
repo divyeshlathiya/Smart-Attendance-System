@@ -15,4 +15,7 @@ urlpatterns = [
     path('video_feed/', views.video_feed, name='video_feed'),
     path('start_attendance/', views.start_attendance, name='start_attendance'),
     path('stop_attendance/', views.stop_attendance, name='stop_attendance'),
+    path('student-dashboard/', views.student_dashboard, name='student_dashboard'),
+    path('change-password/', views.change_password, name='change_password'),
+    path('generate-report/', views.generate_attendance_report, name='generate_report'),
 ]
