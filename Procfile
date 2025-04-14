@@ -1,1 +1,1 @@
-web: gunicorn Attendence_System.wsgi --log-file -
+web: gunicorn Attendence_System.wsgi:application --log-file -
