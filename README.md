@@ -31,8 +31,8 @@ A smart, secure, and deep learning-powered **Attendance System** built with **Dj
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/divyeshlathiya/Face-Recognition-System.git
-cd Face-Recognition-System
+git clone https://github.com/divyeshlathiya/Smart-Attendance-System.git
+cd Smart-Attendance-System
 ```
 
 ### 2. Setup Virtual Environment & Install Requirements
@@ -95,12 +95,6 @@ Face-Recognition-System/
 ├── Procfile                 # For Heroku deployment
 └── requirements.txt
 ```
-
----
-
-## 📜 License
-
-MIT License
 
 ---
 
