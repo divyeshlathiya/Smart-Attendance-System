@@ -1,4 +1,4 @@
-# 🧠 Face Recognition Attendance System
+# 🧠 Smart Attendance System
 
 A smart, secure, and deep learning-powered **Attendance System** built with **Django**. It uses **MTCNN** for real-time face detection, **VGGFace2** for face recognition, and an **anti-spoofing model** to distinguish real faces from fake ones (e.g. photos or videos).
 
