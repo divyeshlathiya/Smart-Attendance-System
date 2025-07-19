@@ -100,6 +100,6 @@ Face-Recognition-System/
 
 ## ✍️ Author & Team Member
 
-**Divyesh Lathiya**
-**Dev Mistri**
-**Mohit Rupchandani**
+**1. Divyesh Lathiya**
+**2. Dev Mistri**
+**3. Mohit Rupchandani**
