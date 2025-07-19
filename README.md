@@ -82,6 +82,7 @@ SUPABASE_SERVICE_ROLE_KEY=your-service-role-key
 SECRET_KEY=your-django-secret-key
 DEBUG=True
 ALLOWED_HOSTS=127.0.0.1,localhost
+```
 
 ## 🔐 Anti-Spoofing Module
 
