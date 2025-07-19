@@ -66,6 +66,23 @@ Visit: `http://127.0.0.1:8000/`
 
 ---
 
+## 🔐 Setup the `.env` File
+
+Create a `.env` file in the root directory of your project to securely store sensitive environment variables.
+
+### ✅ Example `.env` file
+
+```env
+# Supabase Credentials
+SUPABASE_URL=https://your-project-id.supabase.co
+SUPABASE_ANON_KEY=your-anon-key
+SUPABASE_SERVICE_ROLE_KEY=your-service-role-key
+
+# Django Settings
+SECRET_KEY=your-django-secret-key
+DEBUG=True
+ALLOWED_HOSTS=127.0.0.1,localhost
+
 ## 🔐 Anti-Spoofing Module
 
 The system includes a CNN-based anti-spoofing layer that checks if the detected face is real or a spoof (photo/video). If spoofed, attendance is not marked and an alert is logged.
